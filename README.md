@@ -1,5 +1,5 @@
 # Flight Price Prediction
-Using a model trained with the Random Forest algorithm to build a flight ticket price prediction web(Flask) application (see the notebook file for more details).
+Training a model using the Random Forest algorithm, then using the model to build a flight ticket price prediction web application (Flask) (see the notebook file for more details).
 
 ### Result R<sup>2</sup> metric (model):
 <div align="center">
