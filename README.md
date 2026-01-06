@@ -10,7 +10,7 @@ Training a model using the Random Forest algorithm, then using the model to buil
 ### Result final (Flask):
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5ca0adae-3fae-4d4d-a47c-e2f04cdea27e" width="800"/>
-  <p>Figure 1: Flask</p>
+  <p>Figure 2: Flask</p>
 </div>
 
 #### References from Abhishek Sharma
